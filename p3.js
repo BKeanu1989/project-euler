@@ -46,4 +46,4 @@ function primeFactors(inputVal) {
     return primeFactorArray;
 }
 
-console.log(primeFactors(600851475143));
+console.log(primeFactors(inputNumber));

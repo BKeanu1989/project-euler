@@ -24,7 +24,6 @@ while(nextNumber < max) {
     
     prevNumber = oldNextNumber; // 2
     nextNumber = oldPrevNumber + nextNumber; // 1 + 2 = 3
-    
 }
 
 console.log(numberArray);
